@@ -6,6 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 
+
 import static javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER;
 
 public class ChatWindow extends JFrame implements Thread.UncaughtExceptionHandler, MessageProcessor {
